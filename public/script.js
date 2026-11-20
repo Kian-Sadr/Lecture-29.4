@@ -7,7 +7,7 @@ function FunctionComponent(){
 
 class ClassComponent extends React.Component {
    render(){
-      <h2>This is the Second Part</h2>;
+      return <h2>This is the Second Part</h2>;
    }
 }
 
